@@ -1,0 +1,7 @@
+ru/yandex/praktikum/model/UserResponse.class
+ru/yandex/praktikum/client/UserClient.class
+ru/yandex/praktikum/model/User.class
+ru/yandex/praktikum/client/BaseClient.class
+ru/yandex/praktikum/model/Order.class
+ru/yandex/praktikum/client/OrderClient.class
+ru/yandex/praktikum/client/GetOrderClient.class
